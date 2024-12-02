@@ -1,0 +1,37 @@
+/* Estilos para el encabezado de la página */
+header {
+    background-color: grey;  
+    text-align: center;      /* Centra el contenido del encabezado */
+}
+
+/* Estilos para el título principal (h1) */
+h1 {
+    color: blue;             
+    text-align: center;      
+}
+
+/* Estilos para el formulario */
+form {
+    text-align: center;     
+    background-color: grey;  
+    margin-top: 20px;        /* Espacio superior para separar del contenido anterior */
+    border: 2px solid blue; 
+    max-width: 500px;        
+    margin-left: auto;     
+    margin-right: auto;     
+    border-radius: 30px;     /* Bordes redondeados para darle un aspecto moderno */
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #333;  
+    color: white;           
+    text-align: center;     
+    padding: 20px;           /* Espacio interior para que el contenido no quede pegado a los bordes */
+    text-decoration: none;   /* Quita cualquier subrayado de los enlaces */
+}
+
+/* Estilo para el título de la sección de contacto en el pie de página */
+footer h3 {
+    color: #f7c600;        
+}

@@ -1,0 +1,33 @@
+/* Estilos para el encabezado de la página */
+header {
+    background-color: grey; 
+    text-align: center;    
+    color: blue;           
+}
+
+/* Estilos para el título principal (h1) */
+h1 {
+    text-align: center;     
+    color: blue;           
+}
+
+/* Estilos para la tabla de contenido */
+table {
+    text-align: center;     
+    margin: auto;           
+    border-collapse: collapse; /* Elimina el espacio entre bordes de celdas para un aspecto uniforme */
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #333;
+    color: white;           
+    text-align: center;    
+    padding: 20px;          /* Espacio interno alrededor del contenido */
+    text-decoration: none;  
+}
+
+/* Estilo específico para el título dentro del pie de página */
+footer h3 {
+    color: #f7c600;        
+}

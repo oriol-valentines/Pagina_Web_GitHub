@@ -1,0 +1,50 @@
+/* Estilos para el encabezado de la página */
+header {
+    background-color: grey;  
+    text-align: center;      
+    padding: 10px;           /* Espaciado para separar el contenido del borde del encabezado */
+}
+
+/* Estilo para el título principal (h1) */
+h1 {
+    color: blue;             
+}
+
+/* Estilo para subtítulos (h2) */
+h2 {
+    color: blue;          
+    text-align: center;     
+}
+
+/* Estilo para títulos menores (h3) */
+h3 {
+    color: blue;            
+    text-align: center;      
+}
+
+/* Estilo para los párrafos */
+p {
+    text-align: justify;     /* Justifica el texto para alinearlo a ambos lados */
+}
+
+/* Estilo para la imagen con clase .imagen1 */
+.imagen1 {
+    display: block;          /* Configura la imagen como bloque para un mejor centrado */
+    margin: auto;            /* Centra la imagen horizontalmente */
+    width: 600px;            
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #333; 
+    color: white;            
+    text-align: center;     
+    padding: 20px;           
+    text-decoration: none;  
+}
+
+/* Estilo para los títulos en el pie de página */
+footer h3 {
+    color: #f7c600;          
+}
+
